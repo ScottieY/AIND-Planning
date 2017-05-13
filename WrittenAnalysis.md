@@ -80,4 +80,4 @@ For the heuristic approach, ignore_preconditions have better run-time, whereas l
 
 
 
-For the non-heuristic approach, DFS does not guarantee the optimal path, but it has the least run-time for complex problem (Problem 3), since there exist many plan that can achieve the goal. Both BFS and UCS produces the optimal plans. And UCS has the advantage in run-time in complex problems.
+For the non-heuristic approach, DFS does not guarantee the optimal path, but it has the least run-time for complex problem (Problem 3), since there exist many plan that can achieve the goal. Both BFS and UCS produces the optimal plans. And UCS has the advantage in run-time in complex problems. This result was justified in Lesson 7 Search Video 23-25.
